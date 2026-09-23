@@ -1,0 +1,6 @@
+{
+  "name": "ShopNest",
+  "description": "ShopNest - Everything You Need, All in One Place. Curated online store based in Yardley, Birmingham.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
